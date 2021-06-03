@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By Alderman Edmond Reily present Deputy Lord Mayor of the city of Dublin. Whereas several of the inhabitants of the said city and liberties thereof, and many of His Majesties army, and others now residing in the same, ...</title>
+            <author>Dublin (Ireland). Deputy Lord Mayor.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28851</idno><idno type="EEBO-CITATION">99887153</idno>
+  <idno type="VID">190632</idno>
+  <idno type="EEBO-PROQUEST">2264217031</idno>
+  
+            <idno type="STC">Wing R766</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[84]</idno>
+            <idno type="STC">ESTC R227186</idno>
+            <idno type="PROQUEST">ocm99887153</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887153e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190632)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C23:1[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By Alderman Edmond Reily present Deputy Lord Mayor of the city of Dublin. Whereas several of the inhabitants of the said city and liberties thereof, and many of His Majesties army, and others now residing in the same, ...</title>
+                  <author>Dublin (Ireland). Deputy Lord Mayor.</author>
+                  <author>Reily, Edmond.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.);   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham, assigns of Benjamin Tooke, printer to the King's most excellent Majesty; and are to be sold on Ormonde Key, and at the Colledge Arms in Castlestreet.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Dated at the Tholsell of Dublin the 27th day of September. 1689."</note>
+                  <note>Signed at end: Edmond Reily.</note>
+                  <note>Prices of provisions to be sold in Dublin. Cf. Steele.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Consumer goods --  Prices --  Ireland --  Dublin --  Early works to 1800.</term>
+               <term type="topical_term">Price regulation --  Ireland --  Dublin --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190632:1"/>
+            <head>
+               <figure>
+                  <figDesc>shield with three castles</figDesc>
+               </figure>By Alderman EDMOND REILY present Deputy Lord Mayor of the City of DUBLIN.</head>
+            <p>WHEREAS several of the Inhabitants of the said City and Liberties thereof, and many of His Majesties Army, and o<g ref="char:EOLunhyphen"/>thers now Residing in the same, have made Complaint of great Abuses now of late committed in the said City, b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> several <hi>Tradesmen, Artificers, Retailers, Labourers,</hi> and other persons who exact unreasonable Rates, as well for thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> own Labour, as also for Victuals and other Necessaries of the Growth and Manufacture of this Kingdom, Requisit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the daily support and Use of the said Inhabitants and others; tending to the general Inconveniencies of the sai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>habitants, and of all others Resorting to the said City, and more especially to the great Oppression of all the <hi>Souldiers</hi> of his Majestie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>my, and of all the Poorer sort of People, if not prevented; And whereas the Assize of <hi>Bread, Beer</hi> and <hi>Victual;</hi> and the Regula<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n of the <hi>Markets</hi> within the City and Liberties, are given by his Majesties Royal <hi>Charter</hi> unto the Lord <hi>Mayor</hi> of the said City fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>time being, or in his absence to his Deputy; Therefore I the said <hi>Edmond Reyly</hi> present Deputy <hi>Mayor</hi> of the said City having <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll considered the nature of the said Abuses and that the same do proceed either from a perverse desire of making too much profit by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Necessity of others, or from a wicked designe to Create a Scarcity in this City, even of those things, whereof by the blessing o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, there is greatest Plenty in this Land; Having first humbly desired and obtained the advice and approbation of the Right Honour<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e the Lords of the <hi>Comittee</hi> of his Majesties most Honourable Privy Council, and by and with the Concurrence and consent of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmon Council of the said City; Have Ordered and do hereby Order that the several goods mentioned in the <hi>Schedule</hi> hereunt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>exed shall be hereafter, untill further Order, sould within the said City and Liberties, at the several Rates to each particular an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed, and that the daily Hire of Labourers and others shall be as in the said <hi>Schedule</hi> is mentioned.</p>
+            <p>And I do by these presents further declare that if any person whatsoever who hath hitherto dealt in any of the said goods, shall n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e to sell the same according to the Rates hereby Established, or shall presume to demand any Higher Rates for the said Goods,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Hire, upon information thereof to me, or to any other of the Aldermen Iustices of the Peace of the said City, The Person or Perso<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Offending shall be bound over and Proceeded against, according to the Rigour of the Laws made against such Offenders, And to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that no Person may pretend Ignorance thereof; It is further Ordered that this Order be Published in all <hi>Markets</hi> and other usu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Places of this City and its Liberties.</p>
+            <closer>
+               <dateline>Dated at the <hi>Tholsell</hi> of <hi>Dublin</hi>
+                  <date>the 27th day of <hi>September.</hi> 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <head>Rates of provisions, Countrey Goods and Manufactories to be sold in the City of <hi>Dublin.</hi>
+            </head>
+            <p>
+               <hi>IMprimis.</hi> Tanned Leather <hi>(viz.)</hi> upper Leather, not to exceed four pence half penny.</p>
+            <p>And Soul Leather not to exceed five pence half penny in the pound.</p>
+            <p n="2">2dly. Shoomakers to sell shooes at the rates following, <hi>(viz.)</hi> The largest mens shooes not to exceed four shillings. Womens shooes not to exceed two shillings and six pence; and all other shooes proportionably.</p>
+            <p>And Brogemakers to sell their Broges as in <hi>November</hi> last.</p>
+            <p n="3">3dly. Rendred Tallow not to exceed three and twenty pounds per Tunn. Candles by retail not to exceed three pence half penny per pound.</p>
+            <p n="4">4thly. Soape not to exceed three pence per pound.</p>
+            <p n="5">5thly. Barrel and Crock Butter by retail not to exceed two pence half penny per pound.</p>
+            <p>And the best Print-Butter not to exceed three pence half penny per pound.</p>
+            <p n="6">6thly. Cheese the best, not to exceed two pence half penny a pound by retail.</p>
+            <p n="7">7thly. Bacon not to exceed two pence half penny a pound.</p>
+            <p n="8">8thly. The best and prime Beef not to exceed three farthings a pound.</p>
+            <p>Mutton, Veal and Pork, not to exceed one penny per pound.</p>
+            <p n="9">9thly. Wheat the best, not to exceed fifteen shillings per barrel.</p>
+            <p>Rye not to exceed seven shillings and six pence per barrel.</p>
+            <p>Baare the best, not to exceed seven shillings and six pence per barrel.</p>
+            <p>Mault not to exceed eight and six pence per barrel.</p>
+            <p n="10">10thly. Strong Beer not to exceed seventeen shillings the barrel.</p>
+            <p>Ale not to exceed fifteen shillings the barrel.</p>
+            <pb facs="tcp:190632:2"/>
+            <p>And small Beer not to exceed six shillings the barrel.</p>
+            <p n="11">11thly. The best white Oats not to exceed four shillings per barrel.</p>
+            <p>White Pease for boyling, not to exceed ten shillings per barrel. Grey Pease and Beans not to exceed seven shillings the barrel. Oatmeal not to exceed two pence the pottle.</p>
+            <p n="12">12thly. All sorts of Linnen Manufactories and Linnen to be sold so as not to exceed three pence in the shilling advance of what the like were sold for in <hi>November</hi> 1688.</p>
+            <p n="13">13thly. Iron not to be retailed for more than two <hi>shillings</hi> and three pence per stone.</p>
+            <p>All sorts of Blacksmiths ware, and unfiled manufactory of Iron not to exceed a penny in the <hi>shilling</hi> advance of what the like were sold for in <hi>November</hi> 1688.</p>
+            <p n="14">14thly. Furrs not to exceed a penny the sheaf, and the sheaf to contain as great a quantity of furrs as hath been usual.</p>
+            <p n="15">15thly. All Master-workmen <hi>(viz.)</hi> Taylors, Smiths, Carpenters, Joyners, Wheele-wrights, and other Handy<g ref="char:EOLhyphen"/>crafts-men, Butchers, and Slaughter-men, shall not demand or receive more than two <hi>shillings</hi> a day:</p>
+            <p>And Journeymen of the said Trades shall not demand or receive more than fourteen pence a day for each of their work or labour.</p>
+            <p>Common Labourers not to demand or receive more than eight pence a day for their work or labour.</p>
+            <p n="16">16thly. Charcoal not to exceed sixteen pence the barrel. Fire-wood not to exceed fifteen <hi>shillings</hi> the <hi>Cord.</hi>
+            </p>
+            <p>A Kish of Turf containing five hundred whole Turfs, not to exceed eighteen pence, and so proportionably.</p>
+            <p n="17">17thly. French or Spanish Salt not to be sold by retail, or otherwise, for more than two pence three farthings a quart.</p>
+            <p>The best not to exceed three pence; And the best fine white Salt not to exceed three pence the quart.</p>
+            <p n="18">18thly. Flemish Hops by retail not to exceed eighteen pence per pound. And English and Irish Hops not to ex<g ref="char:EOLhyphen"/>ceed two <hi>shillings</hi> and three pence per pound.</p>
+            <p n="19">19thly. All sorts of furniture for <hi>saddles</hi> or <hi>bridles,</hi> and all <hi>saddles</hi> of any materials of the growth and manu<g ref="char:EOLhyphen"/>facture of this Kingdom, by retail, not to exceed two pence in the <hi>shilling</hi> of what the same were sold for in <hi>November</hi> 1688.</p>
+            <closer>
+               <signed>EDMOND REILY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham,</hi> Assigns of <hi>Benjamin Tooke,</hi> Printer to the King's Most Ex<g ref="char:EOLhyphen"/>cellent Majesty; And are to be <hi>sold</hi> on <hi>Ormonde Key,</hi> and at the <hi>Colledge Arms</hi> in <hi>Castlestreet.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
